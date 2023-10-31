@@ -35,6 +35,9 @@
             <p class="text-center text-gray-600 mt-4">
                 For Admin login, use Email: admin@gmail.com and Password: 12345
             </p>
+            <p class="text-center text-gray-600 mt-4">
+                For Manager login, use Email: man@yahoo.com and Password: 12345
+            </p>
         </div>
     </div>
 </body>
