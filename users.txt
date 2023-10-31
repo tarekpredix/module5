@@ -1,0 +1,2 @@
+{"username":"test","email":"test@gmail.com","password":"$2y$10$n2C8CEhFANT0hccvP5Uj5ums3rHktUGXRyb0LP9ivNuEQZFUPtj2S","role":"user"}
+{"username":"admin","email":"admin@gmail.com","password":"$2y$10$pefi0jyOJ9dhEV11U0r8q.bbAu85Ie.Bcp2SWcK5Vq0z8xVXRAXea","role":"admin"}
